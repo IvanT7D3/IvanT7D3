@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hello, I'm Ivan
 
-<!--
-**IvanT7D3/IvanT7D3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a cybersecurity enthusiast who likes to learn new things, and create tools related to offensive and defensive security.
 
-Here are some ideas to get you started:
+## Projects
+Here you can find a few projects I've created to better learn C, and other things that I find interesting.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Project                                       | Link                       |
+|-----------------------------------------------|----------------------------|
+| Offensive C Programming: Creating a RAT       | <a href="https://github.com/IvanT7D3/WarMoon">RAT</a>|
+| Offensive C Programming: Creating a Wiper     | <a href="https://github.com/IvanT7D3/TsarWiper">Wiper</a>|
+| Offensive C Programming: Clipboard Hijack     | <a href="https://github.com/IvanT7D3/ClipJack">ClipJack</a>|
+| x86 Assembly Basics on Linux                  | <a href="https://github.com/IvanT7D3/Assembly">Assembly Basics</a>|
+
+## Tools
+
+### Network
+<div>
+    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+    <img src="https://img.shields.io/badge/tcpdump-1E90FF?style=for-the-badge" />
+</div>
+
+### Offensive
+<div>
+    <img src="https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white" />
+    <img src="https://img.shields.io/badge/Zsh-F15A24?style=for-the-badge&logo=Zsh&logoColor=white" />
+    <img src="https://img.shields.io/badge/burpsuite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
+    <img src="https://img.shields.io/badge/metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white" />
+    <img src="https://img.shields.io/badge/VirtualBox-21416b?style=for-the-badge&logo=VirtualBox&logoColor=white" />
+</div>
+
+### Languages
+<div>
+    <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+    <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
+    <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+</div>
