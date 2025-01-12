@@ -7,8 +7,8 @@ Here you can find a few projects I've created to better learn C, and other thing
 
 | Project                                       | Link                       |
 |-----------------------------------------------|----------------------------|
-| Offensive C Programming: Creating a RAT       | <a href="https://github.com/IvanT7D3/WarMoon">RAT</a>|
-| Offensive C Programming: Creating a Wiper     | <a href="https://github.com/IvanT7D3/TsarWiper">Wiper</a>|
+| Offensive C Programming: Creating a RAT       | <a href="https://github.com/IvanT7D3/WarMoon">WarMoon</a>|
+| Offensive C Programming: Creating a Wiper     | <a href="https://github.com/IvanT7D3/TsarWiper">TsarWiper</a>|
 | Offensive C Programming: Clipboard Hijack     | <a href="https://github.com/IvanT7D3/ClipJack">ClipJack</a>|
 | x86 Assembly Basics on Linux                  | <a href="https://github.com/IvanT7D3/Assembly">Assembly Basics</a>|
 
