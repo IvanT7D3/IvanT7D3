@@ -11,6 +11,7 @@ Here you can find a few projects I've created to better learn C, and other thing
 | Offensive C Programming: Creating a Wiper     | <a href="https://github.com/IvanT7D3/TsarWiper">TsarWiper</a>|
 | Offensive C Programming: Clipboard Hijack     | <a href="https://github.com/IvanT7D3/ClipJack">ClipJack</a>|
 | x86 Assembly Basics on Linux                  | <a href="https://github.com/IvanT7D3/Assembly">Assembly Basics</a>|
+| Blue Team: YARA Rules                         | <a href="https://github.com/IvanT7D3/YARA-Rules"> YARA Rules</a>|
 
 ## Tools
 
