@@ -1,6 +1,6 @@
-# Hello, I'm Ivan
+# About me
 
-I am a cybersecurity enthusiast who likes to learn new things, and create tools related to offensive and defensive security.
+Hi! I'm Ivan, a cybersecurity enthusiast who likes to learn new things, and create tools related to offensive and defensive security.
 
 ## Projects
 Here you can find a few projects I've created to better learn C, and other things that I find interesting.
